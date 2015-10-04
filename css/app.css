@@ -1,0 +1,49 @@
+.brown {
+    background-color: #8D7966;
+    height: 100%;
+}
+
+.grey {
+    background-color: #A8A39D;
+    height: 100%
+}
+
+.tan {
+    background-color: #D8C8B8;
+    height: 100%
+}
+
+.light-grey {
+    background-color: #E2DDD9;
+    height: 100%
+}
+
+.bone {
+    background-color: #F8F1E9;
+    height: 100%
+}
+
+.container {
+    height: 700px;
+}
+
+.haviland {
+    font-family: 'Mr De Haviland', cursive;
+}
+
+.josefin-slab {
+    font-family: 'Josefin Slab', serif;
+}
+
+.josefin-sans {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.font-size-96 {
+    font-size: 96px;
+}
+
+.title {
+    background-color: #8D7966;
+    color: white;
+}
